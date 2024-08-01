@@ -54,6 +54,6 @@ public class LoginTestScript {
         }
 
         // Close the browser
-//        driver.quit();
+        driver.quit();
     }
 }
